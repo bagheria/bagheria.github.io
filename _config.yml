@@ -17,7 +17,7 @@ baseurl: ""
 title: Ayoub Bagheri
 
 # Short description of your site
-# description: Academic website
+description: Academic Website
 
 # --- Navigation bar options --- #
 
@@ -28,9 +28,11 @@ avatar: "/img/AB.png"
 # List of links in the navigation bar
 navbar-links:
   About me: "about me"
-  Research: 
-    - Research Interests: "research interests"
-    - Presentations: "presentations"
+#  Research: 
+#    - Research Interests: "research interests"
+#    - Presentations: "presentations"
+  Research Interests: "research interests"
+  Presentations: "presentations"
   Publications: "publications"
   Homepage: "http://bagheria.github.io"
 
