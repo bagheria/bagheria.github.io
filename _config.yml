@@ -14,7 +14,8 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Ayoub Bagheri
+title: Ayoub Bagheri \s\s
+        Homepage
 
 # Short description of your site
 description: Academic Website
@@ -28,13 +29,16 @@ avatar: "/img/AB.png"
 # List of links in the navigation bar
 navbar-links:
   About me: "about me"
-#  Research: 
-#    - Research Interests: "research interests"
-#    - Presentations: "presentations"
+  Research: 
+     - Research Interests: "research interests"
+     - Publications: "publications"
+     - Work Experience: "Work experience"
+     - Presentations: "presentations"
   Research Interests: "research interests"
   Presentations: "presentations"
-  Publications: "publications"
-  Homepage: "http://bagheria.github.io"
+  Teaching: "teaching"
+  
+  # Homepage: "http://bagheria.github.io"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
