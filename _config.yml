@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Ayoub Bagheri\
+title: Ayoub Bagheri<br/>
         Homepage
 
 # Short description of your site
@@ -28,15 +28,13 @@ avatar: "/img/AB.png"
 
 # List of links in the navigation bar
 navbar-links:
-  About me: "about me"
-  Research: 
-     - Research Interests: "research interests"
-     - Publications: "publications"
-     - Work Experience: "Work experience"
+    Research: 
+     - Interests: "interests"
+     - Projects: "projects"     
      - Presentations: "presentations"
-  Research Interests: "research interests"
-  Presentations: "presentations"
+  Publications: "publications"
   Teaching: "teaching"
+  About me: "about me"
   
   # Homepage: "http://bagheria.github.io"
 
