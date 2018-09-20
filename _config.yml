@@ -27,13 +27,13 @@ avatar: "/img/AB.png"
 
 # List of links in the navigation bar
 navbar-links:
-Research: 
-     - Interests: "interests"
-     - Projects: "projects"     
-     - Presentations: "presentations"
-Publications: "publications"
-Teaching: "teaching"
-About me: "about me"
+     Research: 
+          - Interests: "interests"
+          - Projects: "projects"     
+          - Presentations: "presentations"
+     Publications: "publications"
+     Teaching: "teaching"
+     About me: "about me"
   
   # Homepage: "http://bagheria.github.io"
 
