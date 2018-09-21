@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research interests
+title: Research Interests
 # subtitle: 
 ---
 
