@@ -10,7 +10,7 @@ subtitle: M&S, Utrecht University,  University Medical Center Utrecht
 
 My main research interests are Machine Learning and Text Mining and am always happy to dive into related applications. Together with M&S researcher and scientists from UMC Utrecht, I am currently focusing on Big Data Analysis for Cardiovascular Diseases and how to incorporate clinical text data and clinical trial data into the learning process at population data. </div>
 
-### Download my curriculum vitae from [here.](https://drive.google.com/file/d/1wDR7fAWaXH_aurKYTDM-ee0LlMZAUDkj/view?usp=sharing)
+#### Download my curriculum vitae from [here.](https://drive.google.com/file/d/1wDR7fAWaXH_aurKYTDM-ee0LlMZAUDkj/view?usp=sharing)
 
 ## Research Interests
 
