@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Ayoub Bagheri
+title: Ayoub Bagheri's Homepage
 
 # Short description of your site
 description: Academic Website
@@ -28,10 +28,10 @@ avatar: "/img/AB.png"
 # List of links in the navigation bar
 navbar-links:
      Blog: "blog"
-     Research: 
-          - Interests: "interests"
-          - Projects: "projects"     
-          - Presentations: "presentations"
+     #Research: 
+      #    - Interests: "interests"
+       #   - Projects: "projects"     
+        #  - Presentations: "presentations"
      Publications: "publications"
      Teaching: "teaching"
      #About me: "aboutme"
