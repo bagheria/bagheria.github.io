@@ -1,7 +1,7 @@
 ---
 layout: page
-title: ''
-subtitle: ## Research Interests
+title: Research Interests
+# subtitle: 
 ---
 
 1. Natural Language Processing
