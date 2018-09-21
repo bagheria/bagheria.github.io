@@ -21,10 +21,6 @@ I have diverse research interests and am always happy to dive into a new area. T
 
 ### Download my curriculum vitae from [here.](https://drive.google.com/file/d/1wDR7fAWaXH_aurKYTDM-ee0LlMZAUDkj/view?usp=sharing)
 
-#I also recently gave an invited keynote at the French IR conference [CORIA 2018](https://project.inria.fr/coriataln2018/fr/) on the topic of Search as Learning:
-
-#<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSfP28laIeF0CUrqvfDKBCQp8vp-SHgHpouZ5O7xVREVK0ky7WiGuGdmsJRS13caF9Fh3y3fuAzvFlM/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
 ## Contact
 
 ```
