@@ -1,7 +1,7 @@
 ---
 layout: page
 title: <H2> ML Researcher </H2>
-subtitle: <H3> M&S, Utrecht University,  University Medical Center Utrecht </H3>
+subtitle: <H4> M&S, Utrecht University,  University Medical Center Utrecht </H4>
 ---
 
 ### About me
