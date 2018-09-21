@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ### About me1
+title: ### About me
 # subtitle: 
 ---
 
