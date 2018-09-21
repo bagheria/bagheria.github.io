@@ -33,8 +33,10 @@ Utrecht University - M&S
 The Netherlands
 
 Office: Sjoerd Groenmangebouw, Padualaan 14, C1.22
-Email: a.bagheri[at]uu.nl or a.bagheri-2[at]umcutrecht.nl or ayoub.bagheri[at]gmail.com
-Phone number +31 30 253 5857
+Email: a.bagheri[at]uu.nl
+       a.bagheri-2[at]umcutrecht.nl
+       ayoub.bagheri[at]gmail.com
+Phone number: +31 30 253 5857
 ```
 
 #Current and past students
