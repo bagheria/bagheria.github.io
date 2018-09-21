@@ -1,10 +1,8 @@
 ---
 layout: page
-title:
-# subtitle: 
+# title:
+subtitle: ## About me
 ---
-
-## About me
 
 Since December 2017, I am a researcher at the Department of Methodology and Statistics in the ([Utrecht University](https://www.uu.nl/en)). I also affiliated with the Department of Cardiology, Division of Heart and Lungs, ([University Medical Center Utrecht](https://www.umcutrecht.nl/en/1)).
 
