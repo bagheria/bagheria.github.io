@@ -42,8 +42,3 @@ Phone number +31 30 253 5857
 #Grants
 
 #Organizational duties and activities
-#- Tutorial chair at ICTIR 2019
-#- Tutorial co-chair at [WSDM 2019](http://www.wsdm-conference.org/2019/)
-#- Short paper co-chair at [ECIR 2019](http://ecir2019.org/)
-#- Invited keynote at CORIA, the French chapter of IR conferences (May 2018) ([slides](https://docs.google.com/presentation/d/e/2PACX-1vSfP28laIeF0CUrqvfDKBCQp8vp-SHgHpouZ5O7xVREVK0ky7WiGuGdmsJRS13caF9Fh3y3fuAzvFlM/pub?start=false&loop=false&delayms=3000#slide=id.g1eacb904ba_0_0))
-#- Invited participant at the *Third Strategic Workshop in Information Retrieval* (SWIRL III) in Lorne (February 2018)
