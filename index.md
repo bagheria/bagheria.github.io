@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  ML Researcher
+title: <H2> ML Researcher </H2>
 subtitle: M&S, Utrecht University,  University Medical Center Utrecht
 ---
 
