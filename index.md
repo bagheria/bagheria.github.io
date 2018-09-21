@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Researcher in Machine Learning
+title:  ML Researcher
 subtitle: M&S, Utrecht University,  University Medical Center Utrecht
 ---
 
@@ -11,6 +11,20 @@ Since December 2017, I am a researcher at the Department of Methodology and Stat
 My main research interests are Machine Learning and Text Mining and am always happy to dive into related applications. Together with M&S researcher and scientists from UMC Utrecht, I am currently focusing on Big Data Analysis for Cardiovascular Diseases and how to incorporate clinical text data and clinical trial data into the learning process at population data.
 
 ### Download my curriculum vitae from [here.](https://drive.google.com/file/d/1wDR7fAWaXH_aurKYTDM-ee0LlMZAUDkj/view?usp=sharing)
+
+## Research Interests
+
+1. Text Mining
+2. Natural Language Processing
+3. Machine Learning
+4. Medical Data Mining
+5. Deep Learning
+
+## Research Projects
+
+
+## Organizational duties and activities
+- Invited talk ([slides](https://drive.google.com/file/d/18ZTa0fdJhzxxeX8zpyVG7aAX90V9iAJl/view?usp=sharing)) at the *[Kick-off meeting Special Interest Group Text Mining](https://www.uu.nl/en/events/kick-off-meeting-special-interest-group-text-mining), Utrecht University* (August 2018)
 
 ## Contact
 
