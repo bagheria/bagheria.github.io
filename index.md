@@ -2,6 +2,7 @@
 layout: page
 title: <H2> ML Researcher </H2>
 subtitle: <H4> M&S, Utrecht University,  University Medical Center Utrecht </H4>
+email: a.bagheri@uu.nl
 ---
 
 ### News
