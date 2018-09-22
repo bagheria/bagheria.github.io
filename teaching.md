@@ -32,13 +32,12 @@ schizophrenia: an intervention based on artificial intelligence
 A selection of supervised & co-supervised MSc projects:
 
 - [Shiva Nadi](https://scholar.google.nl/citations?user=YUNWiwsAAAAJ&hl=en&oi=ao) - A hybrid recommender system for web users
-- Ghosoon Alsuraifi – A Random Walk Graph-Based Approach for Word Sense Disambiguation Using
-Lexical Knowledge Resources
-- Asma Dastmardi - Spam E-Mail Detection
+- Ghosoon Alsuraifi – A random walk graph-based approach for word sense disambiguation
+- Asma Dastmardi - Spam email detection
 
 
 A selection of supervised BSc projects:
-- [Mohmmad Javad Maleki](https://www.linkedin.com/in/alexjane19/) and Negin Ashrafi - Neural Network Evaluation on Sentiment Analysis for Online Reviews
+- [Mohmmad Javad Maleki](https://www.linkedin.com/in/alexjane19/) and Negin Ashrafi - Neural network evaluation on sentiment analysis for online reviews
 - [Siavash Teimouri](https://www.linkedin.com/in/faramarz-naderi-b2282a10b/) - Big Data and the Electronic Health Record
 - Faramarz Naderi - Study on medical data mining
 
