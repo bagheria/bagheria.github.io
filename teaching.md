@@ -38,6 +38,6 @@ A selection of supervised & co-supervised MSc projects:
 
 A selection of supervised BSc projects:
 - [Mohmmad Javad Maleki](https://www.linkedin.com/in/alexjane19/) and Negin Ashrafi - Neural network evaluation on sentiment analysis for online reviews
-- [Siavash Teimouri](https://www.linkedin.com/in/faramarz-naderi-b2282a10b/) - Big Data and the Electronic Health Record
-- Faramarz Naderi - Study on medical data mining
+- Siavash Teimouri - Big Data and the Electronic Health Record
+- [Faramarz Naderi](https://www.linkedin.com/in/faramarz-naderi-b2282a10b/) - Study on medical data mining
 
