@@ -4,6 +4,12 @@ title: <H2> ML Researcher </H2>
 subtitle: <H4> M&S, Utrecht University,  University Medical Center Utrecht </H4>
 ---
 
+### News
+
+- October 1st: [5th anniversary UBC Symposium: Big Data in Life Sciences](https://ubc.uu.nl/symposium-big-data-in-life-sciences/), will be held in Utrecht.
+- October 26th: [Applied Data Science Summit 2018](https://www.uu.nl/en/events/applied-data-science-summit-2018)
+
+
 ### About me
 
 Since December 2017, I am a researcher at the Department of Methodology and Statistics in the [Utrecht University](https://www.uu.nl/en). I also affiliated with the Department of Cardiology, Division of Heart and Lungs, [University Medical Center Utrecht (UMCU)](https://www.umcutrecht.nl/en/1).
