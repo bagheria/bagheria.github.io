@@ -26,7 +26,7 @@ Co-supervision of PhD projects:
 - [Mahsa Afsharizadeh](https://scholar.google.nl/citations?user=8t2zqqIAAAAJ&hl=en) - Machine learning for text summarization
 - [Zeinab Sedighi](https://scholar.google.nl/citations?user=mzJ81d8AAAAJ&hl=en) - Deep learning for opinion spam detection
 - [Razieh Asgarnezhad](https://scholar.google.nl/citations?user=HxnrG-0AAAAJ&hl=en) - Ensemble methods for Twitter sentiment classification
-- Elham Tabatabaei - The effect of cognitive rehabilitation on performance of frontal and parietal lobs in
+- [Elham Tabatabaei](https://www.linkedin.com/in/elham-tabatabaei-kashani-a68a0974/) - The effect of cognitive rehabilitation on performance of frontal and parietal lobs in
 schizophrenia: an intervention based on artificial intelligence
 
 A selection of supervised MSc projects:
@@ -37,7 +37,7 @@ Lexical Knowledge Resources
 
 
 A selection of supervised BSc projects:
-- Mohmmad Javad Maleki and Negin Ashrafi - Neural Network Evaluation on Sentiment Analysis for Online Reviews
+- [Mohmmad Javad Maleki](https://www.linkedin.com/in/alexjane19/) and Negin Ashrafi - Neural Network Evaluation on Sentiment Analysis for Online Reviews
 - Siavash Teimouri - Big Data and the Electronic Health Record
 - Faramarz Naderi - Study on medical data mining
 
