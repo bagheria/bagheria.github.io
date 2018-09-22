@@ -15,7 +15,7 @@ title: <H2> Teaching </H2>
 - Algorithm design - Bsc, University of Kashan (2015)
 - Introduction to information retreival - Bsc, University of Kashan (2016)
 - Advanced programming - Bsc, University of Kashan (2015)
-- Introduction to formal languages and automata - Bsc, University of Kashan (2014 - 2015)
+- Introduction to formal languages & automata - Bsc, University of Kashan (2014 - 2015)
 - Introduction to programming - Bsc, Isfahan University of Technology (2010 - 2012)
 - Advanced data mining - Master, Isfahan University of Technology (2012)
 <br>
