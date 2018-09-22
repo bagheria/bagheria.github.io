@@ -5,7 +5,7 @@ title: <H2> Teaching </H2>
 ---
 
 #### Courses (teaching and/or coordinating)
-- Big data in health research - Master & PhD, University Medical Center Utrecht (2018)
+- [Big data in health research](https://www.utrechtsummerschool.nl/courses/life-sciences/big-data-in-health-research) - Master & PhD, University Medical Center Utrecht (2018)
 - Web mining and search engines - Master & PhD, University of Kashan (2016, 2017)
 - Database systems implementation - Bsc, University of Kashan (2017)
 - Advanced database systems - Master, University of Kashan (2014 - 2017)
