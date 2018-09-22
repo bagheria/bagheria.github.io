@@ -15,9 +15,28 @@ title: <H2> Teaching </H2>
 - Algorithm design - Bsc, University of Kashan (2015)
 - Introduction to information retreival - Bsc, University of Kashan (2016)
 - Advanced programming - Bsc, University of Kashan (2015)
-- An introduction to formal languages and automata - Bsc, University of Kashan (2014 - 2015)
+- Introduction to formal languages and automata - Bsc, University of Kashan (2014 - 2015)
 - Introduction to programming - Bsc, Isfahan University of Technology (2010 - 2012)
 - Advanced data mining - Master, Isfahan University of Technology (2012)
 
 
 #### Supervision bachelor and master students
+
+Co-supervision of PhD projects:
+- Mahsa Afsharizadeh - Machine learning for text summarization
+- Zeinab Sedighi - Deep learning for opinion spam detection
+- Razieh Asgarnezhad - Ensemble methods for Twitter sentiment classification
+- Elham Tabatabaei - The effect of cognitive rehabilitation on performance of frontal and parietal lobs in
+schizophrenia: an intervention based on artificial intelligence
+
+A selection of supervised MSc graduation projects:
+
+- Ghosoon Alsuraifi – A Random Walk Graph-Based Approach for Word Sense Disambiguation Using
+Lexical Knowledge Resources
+- Asma Dastmardi - Spam E-Mail Detection
+
+
+A selection of supervised BSc graduation projects:
+
+
+ 
