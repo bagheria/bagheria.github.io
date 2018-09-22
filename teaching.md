@@ -18,8 +18,8 @@ title: <H2> Teaching </H2>
 - Introduction to formal languages and automata - Bsc, University of Kashan (2014 - 2015)
 - Introduction to programming - Bsc, Isfahan University of Technology (2010 - 2012)
 - Advanced data mining - Master, Isfahan University of Technology (2012)
-
-
+<br>
+<br>
 
 #### Supervision bachelor and master students
 
