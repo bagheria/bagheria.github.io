@@ -8,7 +8,7 @@ subtitle: <H4> M&S, Utrecht University,  University Medical Center Utrecht </H4>
 
 Since December 2017, I am a researcher at the Department of Methodology and Statistics in the [Utrecht University](https://www.uu.nl/en). I also affiliated with the Department of Cardiology, Division of Heart and Lungs, [University Medical Center Utrecht (UMCU)](https://www.umcutrecht.nl/en/1).
 
-Between 2013 and 2017 I was an Assistant Professor at the [University of Kashan](https://www.kashanu.ac.ir/en) in the Computer Engineering group. In 2017, I have been received the best teaching award at the University of Kashan.
+Between 2013 and 2017 I was an Assistant Professor at the [University of Kashan](https://www.kashanu.ac.ir/en) in the Computer Engineering group. I have been received the best teaching award at the University of Kashan, for the academic year 2017-2018.
 
 I received my PhD in 2013 from the [Isfahan University of Technology](https://www.iut.ac.ir/en), where I worked in the [Computer Engineering Department](https://www.ece.iut.ac.ir/en) - Artificial Intelligence group. In 2012, I was a visiting researcher at the [Human Media Interaction group](http://hmi.ewi.utwente.nl/) in the [University of Twente](https://www.utwente.nl/). [Ferdowsi University of Mashhad](https://en.um.ac.ir/) was my home during my undergraduate years as a student in computer science. 
 
