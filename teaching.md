@@ -30,14 +30,14 @@ Co-supervision of PhD projects:
 - Elham Tabatabaei - The effect of cognitive rehabilitation on performance of frontal and parietal lobs in
 schizophrenia: an intervention based on artificial intelligence
 
-A selection of supervised MSc graduation projects:
+A selection of supervised MSc projects:
 
 - Ghosoon Alsuraifi – A Random Walk Graph-Based Approach for Word Sense Disambiguation Using
 Lexical Knowledge Resources
 - Asma Dastmardi - Spam E-Mail Detection
 
 
-A selection of supervised BSc graduation projects:
+A selection of supervised BSc projects:
 - Mohmmad Javad Maleki and Negin Ashrafi - Neural Network Evaluation on Sentiment Analysis for Online Reviews
 - Siavash Teimouri - Big Data and the Electronic Health Record
 - Faramarz Naderi - Study on medical data mining
