@@ -29,8 +29,9 @@ Co-supervision of PhD projects:
 - [Elham Tabatabaei](https://www.linkedin.com/in/elham-tabatabaei-kashani-a68a0974/) - The effect of cognitive rehabilitation on performance of frontal and parietal lobs in
 schizophrenia: an intervention based on artificial intelligence
 
-A selection of supervised MSc projects:
+A selection of supervised & co-supervised MSc projects:
 
+- [Shiva Nadi](https://scholar.google.nl/citations?user=YUNWiwsAAAAJ&hl=en&oi=ao) - A hybrid recommender system for web users
 - Ghosoon Alsuraifi – A Random Walk Graph-Based Approach for Word Sense Disambiguation Using
 Lexical Knowledge Resources
 - Asma Dastmardi - Spam E-Mail Detection
@@ -38,6 +39,6 @@ Lexical Knowledge Resources
 
 A selection of supervised BSc projects:
 - [Mohmmad Javad Maleki](https://www.linkedin.com/in/alexjane19/) and Negin Ashrafi - Neural Network Evaluation on Sentiment Analysis for Online Reviews
-- Siavash Teimouri - Big Data and the Electronic Health Record
+- [Siavash Teimouri](https://www.linkedin.com/in/faramarz-naderi-b2282a10b/) - Big Data and the Electronic Health Record
 - Faramarz Naderi - Study on medical data mining
 
