@@ -20,6 +20,7 @@ title: <H2> Teaching </H2>
 - Advanced data mining - Master, Isfahan University of Technology (2012)
 
 
+
 #### Supervision bachelor and master students
 
 Co-supervision of PhD projects:
@@ -37,6 +38,7 @@ Lexical Knowledge Resources
 
 
 A selection of supervised BSc graduation projects:
+- Mohmmad Javad Maleki and Negin Ashrafi - Neural Network Evaluation on Sentiment Analysis for Online Reviews
+- Siavash Teimouri - Big Data and the Electronic Health Record
+- Faramarz Naderi - Study on medical data mining
 
-
- 
