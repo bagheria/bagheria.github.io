@@ -24,9 +24,9 @@ title: <H2> Teaching </H2>
 #### Supervision bachelor and master students
 
 Co-supervision of PhD projects:
-- Mahsa Afsharizadeh - Machine learning for text summarization
-- Zeinab Sedighi - Deep learning for opinion spam detection
-- Razieh Asgarnezhad - Ensemble methods for Twitter sentiment classification
+- [Mahsa Afsharizadeh](https://scholar.google.nl/citations?user=8t2zqqIAAAAJ&hl=en) - Machine learning for text summarization
+- [Zeinab Sedighi](https://scholar.google.nl/citations?user=mzJ81d8AAAAJ&hl=en) - Deep learning for opinion spam detection
+- [Razieh Asgarnezhad](https://scholar.google.nl/citations?user=HxnrG-0AAAAJ&hl=en) - Ensemble methods for Twitter sentiment classification
 - Elham Tabatabaei - The effect of cognitive rehabilitation on performance of frontal and parietal lobs in
 schizophrenia: an intervention based on artificial intelligence
 
