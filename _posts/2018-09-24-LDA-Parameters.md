@@ -1,12 +1,14 @@
 ---
 layout: post
-title: What does the LDA hyperparameters contribute to the model?
+title: LDA hyperparameters
 #subtitle: 
 #bigimg: /img/path.jpg
 #tags: [books, test]
 ---
 
 [Latent Dirichlet Allocation ](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation) (LDA) is a generative topic model which represents documents as mixture of topics assigning words with certain probabilities. The LDA model is considered as an unsupervised learning method which tries to find patterns in text documents by considering words in documents as observations.
+
+![alt text](../img/LDA.png "Logo Title Text 1")
 
 "/img/LDA.png"
 
