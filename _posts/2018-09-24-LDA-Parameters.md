@@ -10,8 +10,6 @@ title: LDA hyperparameters
 
 ![alt text](../img/LDA.png "Logo Title Text 1")
 
-"/img/LDA.png"
-
 
 LDA has two hyperparameters, where tuning them changes the induced topics. The questions are: What does the alpha and beta hyperparameters contribute to LDA? How does the topic change if one or the other hyperparameters increase or decrease? Why are they hyperparamters and not just parameters?
 
