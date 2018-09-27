@@ -13,7 +13,7 @@ title: <H2> Teaching </H2>
 - Introduction to machine learning - Master, Aghigh University (2016)
 - Advanced data mining - Master, Aghigh University (2012-2016)
 - Algorithm design - Bsc, University of Kashan (2015)
-- Introduction to information retreival - Bsc, University of Kashan (2016)
+- Introduction to information retrieval - Bsc, University of Kashan (2016)
 - Advanced programming - Bsc, University of Kashan (2015)
 - Introduction to formal languages & automata - Bsc, University of Kashan (2014-2015)
 - Introduction to programming - Bsc, Isfahan University of Technology (2010-2012)
