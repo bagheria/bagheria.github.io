@@ -34,10 +34,16 @@ My main research interests are Machine Learning and Text Mining and am always ha
 5. Deep Learning
 
 ### Research Projects
-
+- Clinical text mining
+- Natural language processing for EHR text data standardization
+- Advancing precision medicine using machine learning (Prediction using EHR data and genetic data analysis)
+- Sentiment analysis: Aspects, Sentences, and Documents
+- Personalised medicine for Heart Failure 
 
 ### Organizational duties and activities
 - Invited talk ([slides](https://drive.google.com/file/d/18ZTa0fdJhzxxeX8zpyVG7aAX90V9iAJl/view?usp=sharing)) at the *[Kick-off meeting Special Interest Group Text Mining](https://www.uu.nl/en/events/kick-off-meeting-special-interest-group-text-mining), Utrecht University* (August 2018)
+
+- Invited talk on __NLP for healthcare__ at the _Big Data in Health Research, Utrecht summer school, University Medical Center_ (August 2018)
 
 ### Contact
 
