@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <h2> Publications </h2>
+title: ## Publications
 ---
 
 I can also be found on [Google Scholar](https://scholar.google.nl/citations?user=QWhiQdgAAAAJ&hl=en&oi=ao).
@@ -15,6 +15,12 @@ Mahsa Afsharizadeh, Hossein Ebrahimpour-Komleh and Ayoub Bagheri. *Query-oriente
 
 
 ## 2017
+
+<img src="../img/CONFERENCE.png" height="20px">
+Atieh Jabalameli, S. Mehdi Vahidipour and Ayoub Bagheri. *A centralized crawler for web community detection*, accepted at 4th International Conference on Knowledge-Based Engineering and Innovation [KBEI 2017](http://kbei.ir/en/). 
+
+<img src="../img/CONFERENCE.png" height="20px">
+Zeinab Sedighi, Hossein Ebrahimpour-Komleh and Ayoub Bagheri. *RLOSD: Representation Learning Based on OpinionSpam Detection*, accepted at 11th International Conference on Computer Science and Information Technologies, 2017. [[IEEEXplore &#8594;]](https://ieeexplore.ieee.org/abstract/document/8311593)
 
 
 ## 2016
