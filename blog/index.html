@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog
+title: <h2> Blog </h2>
 # subtitle:
 ---
 <meta property="og:image" content="{{ post.thumbnail }}">
@@ -9,24 +9,24 @@ title: Blog
   {% for post in paginator.posts %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
-	  <h2 class="post-title">{{ post.title }}</h2>
-	
+	  <h3 class="post-title">{{ post.title }}</h3>
+
 	  {% if post.subtitle %}
-	  <h3 class="post-subtitle">
+	  <h4 class="post-subtitle">
 	    {{ post.subtitle }}
-	  </h3>
-	  {% endif %}  
+	  </h4>
+	  {% endif %}
     </a>
 
     <p class="post-meta">
       Posted on {{ post.date | date: "%B %-d, %Y" }}
     </p>
-  
+
     <div class="post-entry">
       {{ post.content | truncatewords: 50 | strip_html | xml_escape}}
 	  <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
     </div>
-  
+
    </article>
   {% endfor %}
 </div>
