@@ -1,6 +1,6 @@
 ---
 layout: page
-<H2> title: Publications </H2>
+title: __Publications__
 ---
 
 I can also be found on [Google Scholar](https://scholar.google.nl/citations?user=QWhiQdgAAAAJ&hl=en&oi=ao).
