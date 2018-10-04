@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ## Publications
+## title: Publications
 ---
 
 I can also be found on [Google Scholar](https://scholar.google.nl/citations?user=QWhiQdgAAAAJ&hl=en&oi=ao).
@@ -22,8 +22,15 @@ Atieh Jabalameli, S. Mehdi Vahidipour and Ayoub Bagheri. *A centralized crawler 
 <img src="../img/CONFERENCE.png" height="20px">
 Zeinab Sedighi, Hossein Ebrahimpour-Komleh and Ayoub Bagheri. *RLOSD: Representation Learning Based on OpinionSpam Detection*, accepted at 11th International Conference on Computer Science and Information Technologies, 2017. [[IEEEXplore &#8594;]](https://ieeexplore.ieee.org/abstract/document/8311593)
 
+<img src="../img/CONFERENCE.png" height="20px">
+Elham Madjidi and Ayoub Bagheri. *Providing a method for classifying users' comments using machine learning and voting algorithm*, accepted at 1st International conference on Modern Technologies in Sciences [MTS 2017](http://mtsconf.ir/index.aspx).
+
+<img src="../img/CONFERENCE.png" height="20px">
+Mohamad Javad Maleki and Ayoub Bagheri. *Multi-word effect on analysis of online reviews sentiments*, accepted at 3rd International Conference on Pattern Recognition & Image Analysis [IPRIA 2017](https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=7976174).
+
 
 ## 2016
+
 
 
 
