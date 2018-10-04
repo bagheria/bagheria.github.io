@@ -1,6 +1,6 @@
 ---
 layout: page
-## title: Publications
+<H2> title: Publications </H2>
 ---
 
 I can also be found on [Google Scholar](https://scholar.google.nl/citations?user=QWhiQdgAAAAJ&hl=en&oi=ao).
@@ -17,7 +17,7 @@ Mahsa Afsharizadeh, Hossein Ebrahimpour-Komleh and Ayoub Bagheri. *Query-oriente
 ## 2017
 
 <img src="../img/CONFERENCE.png" height="20px">
-Atieh Jabalameli, S. Mehdi Vahidipour and Ayoub Bagheri. *A centralized crawler for web community detection*, accepted at 4th International Conference on Knowledge-Based Engineering and Innovation [KBEI 2017](http://kbei.ir/en/). 
+Atieh Jabalameli, S. Mehdi Vahidipour and Ayoub Bagheri. *A centralized crawler for web community detection*, accepted at 4th International Conference on Knowledge-Based Engineering and Innovation [KBEI 2017](http://kbei.ir/en/).
 
 <img src="../img/CONFERENCE.png" height="20px">
 Zeinab Sedighi, Hossein Ebrahimpour-Komleh and Ayoub Bagheri. *RLOSD: Representation Learning Based on OpinionSpam Detection*, accepted at 11th International Conference on Computer Science and Information Technologies, 2017. [[IEEEXplore &#8594;]](https://ieeexplore.ieee.org/abstract/document/8311593)
@@ -40,7 +40,7 @@ Ali Zaghian and Ayoub Bagheri. *A combined model of clustering and classificatio
 <img src="../img/JOURNAL.png" height="20px">
 Ayoub Bagheri, Mohamad Saraee and Shiva Nadi. *PSA: a hybrid feature selection approach for Persian text classification*, [Journal of Computing and Security](http://jcomsec.ui.ac.ir/), 2015. [[PDF &#8594;]](https://bagheria.github.io/publications/PSA.pdf)
 
-  
+
 ## 2014
 
 <img src="../img/JOURNAL.png" height="20px">
@@ -105,4 +105,3 @@ Ayoub Bagheri, Maziar Palhang and Mohammad R. Ahmadzadeh. *Defeating CAPTCHAs wi
 
 <img src="../img/JOURNAL.png" height="20px">
 Ayoub Bagheri, Mohammad-R Akbarzadeh-T and Mohamad Saraee. *Finding shortest path with learning algorithms*, [International Journal of Artificial Intelligence](http://www.ceser.in/ceserp/index.php/ijai), 2008. [[PDF &#8594;]](https://bagheria.github.io/publications/Finding_Shortest_Path_with_Learning_Algo.pdf)
-
