@@ -7,13 +7,7 @@ email: a.bagheri@uu.nl
 
 ### About me
 
-Since December 2017, I am a researcher at the Department of Methodology and Statistics in the [Utrecht University](https://www.uu.nl/en). I also affiliated with the Department of Cardiology, Division of Heart and Lungs, [University Medical Center Utrecht (UMCU)](https://www.umcutrecht.nl/en/1).
-
-Between 2013 and 2017 I was an Assistant Professor at the [University of Kashan](https://www.kashanu.ac.ir/en) in the Computer Engineering group. I have been received the best teaching award at the University of Kashan, for the academic year 2017-2018.
-
-I received my PhD in 2013 from the [Isfahan University of Technology](https://www.iut.ac.ir/en), where I worked in the [Computer Engineering Department](https://www.ece.iut.ac.ir/en) - Artificial Intelligence group. In 2012, I was a visiting researcher at the [Human Media Interaction group](http://hmi.ewi.utwente.nl/) in the [University of Twente](https://www.utwente.nl/). [Ferdowsi University of Mashhad](https://en.um.ac.ir/) was my home during my undergraduate years as a student in computer science. 
-
-In the past, I have worked on a variety of topics in the fields of data mining, machine learning & information retrieval, including aspect-based sentiment analysis (the topic of my PhD thesis), medical data and text mining, recommender systems, review spam detection, and social network analysis.
+I am a researcher at the Department of Methodology and Statistics in the [Utrecht University](https://www.uu.nl/en) and also affiliated with the Department of Cardiology, Division of Heart and Lungs, [University Medical Center Utrecht (UMCU)](https://www.umcutrecht.nl/en/1).
 
 My main research interests are Machine Learning and Text Mining and am always happy to dive into related applications. Currently, together with M&S researchers and scientists from the UMCU, I am focusing on Big Data Analysis for Cardiovascular Diseases and how to incorporate clinical text data and clinical trial data into the learning process at population data.
 
@@ -27,12 +21,16 @@ My main research interests are Machine Learning and Text Mining and am always ha
 4. Medical Data Mining
 5. Deep Learning
 
-### Research Projects
-- Clinical text mining
-- Natural language processing for EHR text data standardization
-- Advancing precision medicine using machine learning (Prediction using EHR data and genetic data analysis)
-- Sentiment analysis: Aspects, Sentences, and Documents
-- Personalised medicine for Heart Failure 
+### Projects
+- A data mining-based workbench for UK Biobank: advancing precision medicine by the use of machine learning and expert knowledge
+
+- Machine learning techniques to predict worsening of diastolic dysfunction in patients from an outpatient clinic
+
+- Deep neural networks for icd-10 classification of diagnosis registration in cardiovascular notes to allow data mining in electronic health records
+
+- Natural language processing for EHR precision medicine
+
+- CONVOCALS: a CONVOlutional neural network to predict symptoms and major secondary CArdiovascuLar events based on high-resolution scanned histological Slides 
 
 ### Organizational duties and activities
 - [Statistical Programming with R 2019, Summer School Utrecht University](https://www.gerkovink.com/R/)
