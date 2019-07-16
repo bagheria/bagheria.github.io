@@ -1,15 +1,9 @@
 ---
 layout: page
-title: <H2> ML Researcher </H2>
+title: ML Researcher
 subtitle: <H4> M&S, Utrecht University,  University Medical Center Utrecht </H4>
 email: a.bagheri@uu.nl
 ---
-
-### News
-
-- October 1st: [5th anniversary UBC Symposium: Big Data in Life Sciences](https://ubc.uu.nl/symposium-big-data-in-life-sciences/), will be held in Utrecht.
-- October 26th: [Applied Data Science Summit 2018](https://www.uu.nl/en/events/applied-data-science-summit-2018)
-
 
 ### About me
 
