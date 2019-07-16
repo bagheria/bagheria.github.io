@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <H2> Teaching </H2>
+title: Teaching
 # subtitle: 
 ---
 
