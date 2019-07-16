@@ -1,7 +1,7 @@
 ---
 layout: page
-title: ML Researcher
-subtitle: <H4> M&S, Utrecht University,  University Medical Center Utrecht </H4>
+title: Ayoub Bagheri
+subtitle: <H4> DATA SCIENTIST, Utrecht University </H4>
 email: a.bagheri@uu.nl
 ---
 
