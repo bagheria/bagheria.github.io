@@ -1,11 +1,20 @@
 ---
 layout: page
-title: <H2> Publications </H2>
+title: Publications
 ---
 
 I can also be found on [Google Scholar](https://scholar.google.nl/citations?user=QWhiQdgAAAAJ&hl=en&oi=ao).
 
+## 2019
+
+<img src="../img/JOURNAL.png" height="20px">
+Arjan Sammani, Mark Jansen, M. Linschoten, Ayoub Bagheri, N. de Jonge, H. Kirkels, L. van Laake, Aryan Vink, J.P van Tintelen, D. Dooijes, A.S.J.M. te Riele, M. Harakalova, A.F. Baas, and Folkert W. Asselbergs. *UNRAVEL: Big data analytics Research Data Platform to improve care of patients with cardiomyopathies using routine electronic health records and standardized Biobanking*, Netherlands Heart Journal, Springer, pp.1-9. [Link](https://link.springer.com/article/10.1007/s12471-019-1288-4)
+
+
 ## 2018
+
+<img src="../img/JOURNAL.png" height="20px">
+Ayoub Bagheri. *Integrating word status for joint detection of sentiment and aspect in reviews*, SAGE, Journal of Information Science. [JIS](https://journals.sagepub.com/doi/full/10.1177/0165551518811458)
 
 <img src="../img/JOURNAL.png" height="20px">
 Razieh Asgarnezhad, S Amirhassan Monadjemi, Mohammadreza Soltanaghaei and Ayoub Bagheri. *SFT: A model for sentiment classification using supervised methods on twitter*, [Journal of Theoretical and Applied Information Technology](https://www.jatit.org/), 2018. [[PDF &#8594;]](https://bagheria.github.io/publications/sft.pdf)
