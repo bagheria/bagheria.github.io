@@ -9,7 +9,7 @@ email: a.bagheri@uu.nl
 
 I am a researcher at the Department of Methodology and Statistics in the [Utrecht University](https://www.uu.nl/en) and also affiliated with the Department of Cardiology, Division of Heart and Lungs, [University Medical Center Utrecht (UMCU)](https://www.umcutrecht.nl/en/1).
 
-My main research interests are Machine Learning and Text Mining and am always happy to dive into related applications. Currently, together with M&S researchers and scientists from the UMCU, I am focusing on Big Data Analysis for Cardiovascular Diseases and how to incorporate clinical text data and clinical trial data into the learning process at population data.
+Currently, I am focusing on Big Data Analysis for Cardiovascular Diseases and how to incorporate clinical text data and clinical trial data into the learning process at population data.
 
 ##### Download my curriculum vitae from [here.](https://bagheria.github.io/publications/CV - Ayoub Bagheri - July 2019.pdf)
 
