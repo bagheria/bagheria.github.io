@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ayoub Bagheri
+title: <H3> Ayoub Bagheri </H3>
 subtitle: <H4> Utrecht University </H4>
 email: a.bagheri@uu.nl
 ---
