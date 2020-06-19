@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Ayoub Bagheri
-subtitle: <H4> DATA SCIENTIST, Utrecht University </H4>
+subtitle: <H4> Utrecht University </H4>
 email: a.bagheri@uu.nl
 ---
 
 ### About me
 
-I am a researcher at the Department of Methodology and Statistics in the [Utrecht University](https://www.uu.nl/en) and also affiliated with the Department of Cardiology, Division of Heart and Lungs, [University Medical Center Utrecht (UMCU)](https://www.umcutrecht.nl/en/1).
+I am a researcher at the Department of Methodology and Statistics in the [Utrecht University](https://www.uu.nl/en), affiliated also with the Department of Cardiology, Division of Heart and Lungs, [University Medical Center Utrecht (UMCU)](https://www.umcutrecht.nl/en/1).
 
 Currently, I am working on Big Data Analysis for Cardiovascular Diseases and how to incorporate clinical text data and clinical trial data into the learning process at population data.
 
