@@ -32,7 +32,7 @@ navbar-links:
        #   - Projects: "projects"     
         #  - Presentations: "presentations"
      Publications: "publications"
-     Teaching: "teaching"
+     # Teaching: "teaching"
      Blog: "blog"
      #About me: "aboutme"
   
