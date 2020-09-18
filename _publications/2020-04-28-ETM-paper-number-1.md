@@ -1,5 +1,5 @@
 ---
-title: "ETM: Enrichment by topic modeling for automated clinical sentence classification"
+title: "ETM: Enrichment by topic modeling for automated clinical sentence classification to detect patients' disease history"
 collection: publications
 permalink: /publication/2020-04-28-ETM-paper-number-1
 excerpt: 'This paper describes a method for extraction of medical history by clinical sentence classification.'
