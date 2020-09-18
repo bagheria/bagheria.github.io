@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ayoub Bagheri"
   avatar           : "profile.png"
-  bio              : "I am an Assistant Professor in the area of Applied Data Science at the Methodology and Statistics department of Utrecht University."
+  bio              : "Methodology and Statistics <br/> Utrecht University"
   #location         : "The Nethe"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  #github           : "academicpages"
+  github           : "bagheria"
   google_plus      :
   keybase          :
   instagram        :
