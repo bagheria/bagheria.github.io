@@ -1,5 +1,5 @@
 ---
-title: "ETM: Enrichment by topic"
+title: "ETM"
 collection: publications
 permalink: /publication/2020-04-28-ETM-paper-number-1
 excerpt: 'This paper describes a proposed method for the extraction of medical history by clinical sentence classication.'
