@@ -2,7 +2,7 @@
 title: "ETM: Enrichment by topic modeling for automated clinical sentence classication to detect patients' disease history"
 collection: publications
 permalink: /publication/2020-04-28-ETM-paper-number-1
-#excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper describes a proposed method for the extraction of medical history by clinical sentence classication.'
 date: 2020-04-28
 venue: 'Journal of Intelligent Information Systems'
 paperurl: 'https://link.springer.com/article/10.1007/s10844-020-00605-w'
