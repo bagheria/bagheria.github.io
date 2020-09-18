@@ -6,7 +6,7 @@ excerpt: 'This paper describes a proposed method for the extraction of medical h
 date: 2020-04-28
 venue: 'Journal of Intelligent Information Systems'
 paperurl: 'https://link.springer.com/article/10.1007/s10844-020-00605-w'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Bagheri, A., Sammani, A., Van der Heijden, P. G. M., Asselbergs, F. W., & Oberski, D. L. (2020). &quot;ETM: Enrichment by topic modeling for automated clinical sentence classification to detect patients' disease history.&quot; <i>Journal of Intelligent Information Systems</i>. 55(2), 329-349.'
 ---
 This paper describes a proposed method for the extraction of medical history by clinical sentence classification. Because of the limited number of words used in clinical sentences, this problem is considered that of short text classification. To mitigate the error in short text classification, we propose an unsupervised topic modeling-based smoothing method that uses an internal knowledge acquisition mechanism without employing any external dictionary. We employ this method to enrich the representation of the sentences in a data set of clinical cardiovascular notes from the Cardiology department at the UMC Utrecht.
 
