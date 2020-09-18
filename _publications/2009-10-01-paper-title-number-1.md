@@ -3,7 +3,7 @@ title: "ETM"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper describes a proposed method for the extraction of medical history by clinical sentence classification.'
-date: 2009-10-01
+date: 2020-04-28
 venue: 'Journal of Intelligent Information Systems'
 paperurl: 'https://link.springer.com/article/10.1007/s10844-020-00605-w'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
@@ -12,4 +12,4 @@ This paper describes a proposed method for the extraction of medical history by 
 
 [Download paper here](https://link.springer.com/article/10.1007/s10844-020-00605-w)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Bagheri, A., Sammani, A., Van der Heijden, P. G. M., Asselbergs, F. W., & Oberski, D. L. (2020). &quot;ETM: Enrichment by topic modeling for automated clinical sentence classification to detect patients' disease history.&quot; <i>Journal of Intelligent Information Systems</i>. 55(2), 329-349.
