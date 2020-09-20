@@ -1,5 +1,5 @@
 ---
-title: "Fair inference on error-prone outcomes."
+title: "Fair inference on error-prone outcomes"
 collection: publications
 permalink: /publication/2020-09-08-fair-paper-number-1
 excerpt: 'This paper proposes a structural equation model to tackle a different modern data problem: algorithmic fairness.'
