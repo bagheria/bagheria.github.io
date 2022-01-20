@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Courses"
+permalink: /courses/
 author_profile: true
 ---
 
@@ -13,6 +13,6 @@ I also summer courses and one-day workshops. I highly recommend the courses in A
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+{% for post in site.courses reversed %}
   {% include archive-single.html %}
 {% endfor %}
