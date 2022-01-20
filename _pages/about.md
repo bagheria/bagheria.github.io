@@ -14,6 +14,5 @@ The main focus of my academic career has been to develop open source Intelligent
 
 Team Science:
 
-- As part of the [Human Data Science](https://hds.sites.uu.nl/) group, I work on several projects in the domain of applied data science for health and social sciences.
-
-- As part of the [ASReview](https://asreview.nl/) team, I also work on projects related to automated systematic text reviewing by using deep learning and active learning.
+* As part of the [Human Data Science](https://hds.sites.uu.nl/) group, I work on several projects in the domain of applied data science for health and social sciences.
+* As part of the [ASReview](https://asreview.nl/) team, I also work on projects related to automated systematic text reviewing by using deep learning and active learning.
