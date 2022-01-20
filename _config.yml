@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ayoub Bagheri / Assistant Professor"
+title                    : "About me" #"Ayoub Bagheri / Assistant Professor"
 title_separator          : "-"
 name                     : &name "Ayoub Bagheri"
 description              : &description "Assistant Professor in Applied Data Science"
