@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Here is a short list of my publications, 
+Here is a short list of my publications, for a more comprehensive list please visit my [Google Scholar page](https://scholar.google.nl/citations?user=QWhiQdgAAAAJ&hl=en).
 
 {% include base_path %}
 
