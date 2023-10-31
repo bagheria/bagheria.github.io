@@ -6,6 +6,83 @@ author_profile: true
 ---
 Here is a short list of my publications, for a more comprehensive list please visit my [Google Scholar page](https://scholar.google.nl/citations?user=QWhiQdgAAAAJ&hl=en).
 
+### 2023
+- Fang, Q., Giachanou, A., **Bagheri, A.**, Boeschoten, L., van Kesteren, E.J., Shafiee Kamalabad, M., Oberski, D.L. (2023). On Text-based Personality Computing: Challenges and Future Directions. Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics, ACL 2023.
+- van Leeuwen, A., **Bagheri, A.**, Volker, T. B., & van Brakel, C. (2023). Verkenning van de inzet van topic modelling bij het analyseren van schrijfopdrachten. Tijdschrift voor Hoger Onderwijs, 41(2).
+- Mohammadi, H., Giachanou, A., & **Bagheri, A.** (2023). Towards robust online sexism detection: a multi-model approach with BERT, XLM-RoBERTa, and DistilBERT for EXIST 2023 Tasks. Working Notes of CLEF.
+- Teijema, J. J., Hofstee, L., Brouwer, M., de Bruin, J., Ferdinands, G., de Boer, J., ... & **Bagheri, A.** (2023). Active learning-based Systematic reviewing using switching classification models: the case of the onset, maintenance, and relapse of depressive disorders. Frontiers in Research Metrics and Analytics, 8, 1178181.
+- Ferdinands, G., Schram, R., de Bruin, J., **Bagheri, A.**, Oberski, D. L., Tummers, L., ... & van de Schoot, R. (2023). Performance of active learning models for screening prioritization in systematic reviews: a simulation study into the Average Time to Discover relevant records. Systematic Reviews, 12(1), 100.
+- Teijema, J. J., Seuren, S., Anadria, D., **Bagheri, A.**, & van de Schoot, R. (2023). Simulation-based Active Learning for Systematic Reviews: A Systematic Review of the Literature. https://doi.org/10.31234/osf.io/67zmt.
+- van Tubergen, F., Nadi Njafabadi, S., **Bagheri, A.** (Submitted, 2023). Media portrayals of immigrants, refugees, and Muslims: Group hierarchies in online news sources in the Netherlands.
+- Soppe, K., **Bagheri, A.**, Nadi Njafabadi, S., Klugkist, I., Wubbels, T., Wijngaards-de Meij, L. (Submitted, 2023). Pre-university motivation and first-year study success: Text mining for pre-enrollment questionnaires.
+
+### 2022
+- Keuren, P., Ponsen, M., **Bagheri, A.** (2022). WordGraph2Vec: Combining domain knowledge with text embeddings. In Joint International Scientific Conferences on AI and Machine Learning (BNAIC/BeNeLearn 2022).
+- de Jong, D., **Bagheri, A.** (2022). The Case of Imperfect Negation Cues: A Two-Step Approach for Automatic Negation Scope Resolution. In International Conference on Applications of Natural Language to Information Systems (pp. 413-424). Springer, Cham.
+- Afsharizadeh, M., Ebrahimpour-Komleh, H., **Bagheri, A.**, Chrupała, G. (2022). A Survey on Multi-document Summarization and Domain-Oriented Approaches. Journal of Information Systems and Telecommunication (JIST), 1(37), 68.
+- Teijema, J., Hofstee, L., Brouwer, M., de Bruin, J., Ferdinands, G., de Boer, J., Vizan, P., van den Brand, S., Bockting, C., van de Schoot, R., **Bagheri, A.** (Submitted, 2022). Systematic reviewing using Active Learning-based neural networks: the case of the onset, maintenance, and relapse of depressive disorders. Expert Systems with Applications.
+
+### 2021
+- Felix, S.EA., **Bagheri, A.**, Ramjankhan, F.R., Spruit, M.R., Oberski, D.L., de Jonge, N., van Laake, L.W., Suyker, W.JL., Asselbergs, F.W., (2021). A data mining-based cross-industry process for predicting major bleeding in mechanical circulatory support. European Heart Journal-Digital Health, 2(4), 635-642.
+- **Bagheri, A.**, Groenhof, T.K.J., Asselbergs, F.W., Haitjema, S., Bots, M.L., Veldhuis, W.B., de Jong, P.A., Oberski, D.L. (2021). Automatic prediction of recurrence of major cardiovascular events: A text mining study using chest X-ray reports. Journal of Healthcare Engineering, 1-11.
+- Boeschoten, L., van Kesteren, E.J., **Bagheri, A.**, Oberski, D.L. (2021). Achieving fair inference using error-prone outcomes. International Journal of Interactive Multimedia & Artificial Intelligence, 6(5).
+- Sammani, A., **Bagheri, A.**, van der Heijden, P.G.M., Te Riele, A., Baas, A., Oberski, D.L., Asselbergs, F.W. (2021). Automatic multi-label detection of ICD 10 codes in Dutch cardiology discharge letters using neural networks. NPJ digital medicine, 4(1), 1-10.
+- Yang, Z., **Bagheri, A.**, van der Heijden, P.G. (2021). Neural Networks for Latent Budget Analysis of Compositional Data. arXiv preprint arXiv:2109.04875.
+
+### 2020
+- **Bagheri, A.**, Sammani, A., van der Heijden, P.G.M., Asselbergs, F.W., Oberski, D.L. (2020). ETM: Enrichment by topic modeling for automated clinical sentence classification to detect patients’ disease history. Journal of Intelligent Information Systems, 55(2), 329-349.
+- Afsharizadeh, M., Ebrahimpour-Komleh, H., **Bagheri, A.** (2020). Automatic summarization of scientific articles: A survey. Journal of Information Science, 46(3), 291-310.
+- **Bagheri, A.**, Groenhof, T.K.J., Veldhuis, W.B., de Jong, P.A., Asselbergs, F.W., Oberski, D.L. (2020). Multimodal learning for cardiovascular risk prediction using EHR data. In Proceedings of the 11th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM BCB 2020).
+- **Bagheri, A.**, Sammani, A., van der Heijden, P.G.M., Asselbergs, F.W., Oberski, D.L. (2020). Automatic ICD-10 classification of diseases from Dutch discharge letters. In Proceedings of the 13th International Joint Conference on Biomedical Engineering Systems and Technologies, 281-289.
+- Boeschoten, L., van Kesteren, E.J., **Bagheri, A.**, Oberski, D.L. (2020). Fair inference on error-prone outcomes. ECAI conference 2020 workshop: Artificial Intelligence for a Fair, Just and Equitable World.
+- van de Leur, R.R., Boonstra, M.J., **Bagheri, A.**, Roudijk, R.W., Sammani, A., Taha, K., Doevendans, P.A.F.M., van der Harst, P., van Dam, P.M., Hassink, R.J., van Es, R., Asselbergs F.W. (2020). Big data and artificial intelligence: Opportunities and threats in electrophysiology, Arrhythmia & Electrophysiology Review, 9(3), 146-154.
+- Ferdinands, G., Schram, R., de Bruin, J., **Bagheri, A.**, Oberski, D., Tummers, L., van de Schoot, R. (2020). Interactive screening prioritization in systematic reviews by employing active learning.
+
+### 2019
+- Sammani, A., Jansen, M., Linschoten, M., **Bagheri, A.**, de Jonge, N., Kirkels, H., van Laake, L., Vink, A., van Tintelen, J.P., Dooijes, D., Te Riele, A., Harakalova, M., Baas, A.F., Asselbergs, F.W. (2019). UNRAVEL: Big data analytics research data platform to improve care of patients with cardiomyopathies using routine electronic health records and standardized biobanking. Netherlands Heart Journal, 27(9), 426-434.
+- **Bagheri, A.**, Oberski, D.L., Sammani, A., van der Heijden, P.G.M., Asselbergs, F.W. (2019). SALTClass: Classifying clinical short notes using background knowledge from unlabeled data. bioRxiv 801944.
+- **Bagheri, A.** (2019). Integrating word status for joint detection of sentiment and aspect in reviews. Journal of Information Science, 45(6), 736-755.
+- Sedighi, Z., Ebrahimpour-Komleh, H., **Bagheri, A.**, Kosseim, L. (2019). Learning to identify fake opinion reviews using a neural network with attention. In Proceedings of the 32nd International Artificial Intelligence Research Society Conference, 245-248.
+
+### 2018
+- Asgarnezhad, R., Monadjemi, S.A., Soltanaghaei, M., **Bagheri, A.** (2018). SFT: A model for sentiment classification using supervised methods on Twitter. Journal of Theoretical & Applied Information Technology, 96(8), 2242-2251.
+- Afsharizadeh, M., Ebrahimpour-Komleh, H., **Bagheri, A.** (2018). Query-oriented text summarization using sentence extraction technique. In Proceedings of the 4th IEEE International Conference on Web Research, 128-132.
+
+### 2017
+- Sedighi, Z., Ebrahimpour-Komleh, H., **Bagheri, A.** (2017). RLOSD: Representation learning-based opinion spam detection. In Proceedings of the 3rd IEEE Conference on Intelligent Systems and Signal Processing, 74-80.
+
+### 2016
+- Zaghian, A., **Bagheri, A.** (2016). A combined model of clustering and classification methods for preserving privacy in social networks against inference and neighborhood attacks. International Journal of Security and Its Applications, 10(1), 95-102.
+
+### 2015
+- **Bagheri, A.**, Saraee, M., Nadi Njafabadi, S. (2015). PSA: A hybrid feature selection approach for Persian text classification. Journal of Computing and Security, Special Issue in Data Mining and Knowledge Discovery, 1(4), 261-272.
+
+### 2014
+- **Bagheri, A.**, Saraee, M., de Jong, F. (2014). ADM-LDA: An aspect detection model based on topic modeling by using structures of reviews. Journal of Information Science, 40(5), 621-636.
+- **Bagheri, A.**, Saraee, M., de Jong, F. (2014). Care more about customers: Unsupervised domain-independent aspect detection for sentiment analysis of customer reviews. Knowledge-Based Systems, 52, 201–213.
+- **Bagheri, A.**, Saraee, M. (2014). Persian sentiment analyzer: A framework based on a novel feature selection method. International Journal of Artificial Intelligence, 12(2), 115-129.
+
+### 2013
+- **Bagheri, A.**, Saraee, M., de Jong, F. (2013). An unsupervised aspect detection model for sentiment analysis of reviews. Natural Language Processing and Information Systems NLDB 2013, 140-151.
+- Saraee, M., **Bagheri, A.** (2013). Feature selection methods in Persian sentiment analysis. Natural Language Processing and Information Systems NLDB 2013, 303-308.
+- **Bagheri, A.**, Saraee, M., de Jong, F. (2013). Latent Dirichlet Markov allocation for sentiment analysis. In Proceedings of the Fifth European Conference on Intelligent Management Systems in Operations, 90-96.
+- **Bagheri, A.**, Saraee, M., de Jong, F. (2013). Sentiment classification in Persian introducing a mutual information-based method for feature selection. In Proceedings of the 21st Iranian Conference on Electrical Engineering, 1-6.
+
+### 2011
+- Nadi Njafabadi, S., Saraee, M., **Bagheri, A.** (2011). A hybrid recommender system for dynamic web users. International Journal of Multimedia and Image Processing, 1(1), 3-8.
+- Moghimi, M., Saraee, M., **Bagheri, A.** (2011). Modeling batch annealing process using data mining techniques for cold rolled steel sheets. In Proceedings of the First International Workshop on Data Mining for Service and Maintenance, 18-22.
+
+### 2010
+- Nadi Njafabadi, S., Saraee, M., **Bagheri, A.** (2010). FARS: Fuzzy ant based recommender system for web users. International Journal of Computer Science Issues, 7(6), 203-209.
+
+### 2009
+- Norouzzadeh, M., **Bagheri, A.**, Saraee, M. (2009). Web search personalization: A fuzzy adaptive approach. In Proceedings of the 2nd IEEE International Conference on Computer Science and Information Technology, 143-148.
+
+### 2008
+- **Bagheri, A.**, Akbarzadeh, M., Saraee, M. (2008). Finding shortest path with learning algorithms. International Journal of Artificial Intelligence, 1(8), 86-95.
+
+
+
 {% include base_path %}
 
 {% for post in site.publications reversed %}
