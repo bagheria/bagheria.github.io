@@ -13,7 +13,7 @@ Here is a curated list of some of the courses he offers:
 
 * [Data Wrangling and Data Analysis](https://infomdwr.nl/)
 * [Battling the Curse of Dimensionality](https://infomda2.nl/)
-* [Applied Data Science and Visualization] (https://adav-course-2023.netlify.app/)
+* [Applied Data Science and Visualization](https://adav-course-2023.netlify.app/)
 * [Text Mining with R](https://utrechtsummerschool.nl/courses/social-sciences/data-science-introduction-to-text-mining-with-r) 
 * [Applied Text Mining](https://utrechtsummerschool.nl/courses/social-sciences/data-science-applied-text-mining)
 * [Text Analysis with Python](https://utrechtsummerschool.nl/courses/social-sciences/text-analysis-with-python-online-course)
