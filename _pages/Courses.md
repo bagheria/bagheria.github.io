@@ -4,11 +4,20 @@ title: "Courses"
 permalink: /courses/
 author_profile: true
 ---
-I develop / coordinate / teach courses about Data Science, Data Analysis and Visualisation, Text Mining, and Natural Language Processing. I use both Python and R in my teaching. My courses are open source and you can contact me for the source if you are interested in one of my lectures.
 
-I also coordinate / teach summer courses and one-day workshops. I highly recommend the courses in Applied Data Science speciality at Urecht Summer School, especially the two courses that I teach on Text Mining:
-* [Introduction to Text Mining with R](https://utrechtsummerschool.nl/courses/social-sciences/data-science-introduction-to-text-mining-with-r) 
+He develops, coordinates, and instructs a range of courses, delving into the areas of Data Science, Data Analysis and Visualization, Text Mining, and Natural Language Processing. He is also the coordinator of the Applied Data Science master profile since 2021. 
+
+All his teachings is open employing both Python and R programming in data science. Beyond his regular curriculum, he extends his expertise through coordinating and leading summer courses as well as dynamic one-day workshops and teaching for professionals (OvP).
+
+Here is a curated list of some of the courses he offers:
+
+* [Data Wrangling and Data Analysis](https://infomdwr.nl/)
+* [Battling the Curse of Dimensionality](https://infomda2.nl/)
+* [Applied Data Science and Visualization] (https://adav-course-2023.netlify.app/)
+* [Text Mining with R](https://utrechtsummerschool.nl/courses/social-sciences/data-science-introduction-to-text-mining-with-r) 
 * [Applied Text Mining](https://utrechtsummerschool.nl/courses/social-sciences/data-science-applied-text-mining)
+* [Text Analysis with Python](https://utrechtsummerschool.nl/courses/social-sciences/text-analysis-with-python-online-course)
+* Transformers and Foundations Models
 
 {% include base_path %}
 
