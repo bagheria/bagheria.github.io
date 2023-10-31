@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ayoub Bagheri"
   avatar           : "profile.jpg"
-  bio              : "Methodology and Statistics <br/> Utrecht University"
+  bio              : "Assistant Professor <br/> Methodology and Statistics <br/> Utrecht University"
   #location         : "The Nethe"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -109,7 +109,7 @@ author:
   #stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  X                : "BagheriAyoub"
+  twitter          : "BagheriAyoub"
   vine             :
   weibo            :
   xing             :
