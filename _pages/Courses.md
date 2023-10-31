@@ -17,7 +17,7 @@ Here is a curated list of some of the courses he offers:
 * [Text Mining with R](https://utrechtsummerschool.nl/courses/social-sciences/data-science-introduction-to-text-mining-with-r) 
 * [Applied Text Mining](https://utrechtsummerschool.nl/courses/social-sciences/data-science-applied-text-mining)
 * [Text Analysis with Python](https://utrechtsummerschool.nl/courses/social-sciences/text-analysis-with-python-online-course)
-* Transformers and Foundations Models
+* Transformers and Foundation Models, a new short course starting in 2024
 
 {% include base_path %}
 
