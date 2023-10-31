@@ -48,6 +48,9 @@ author_profile: true
 - Martijn Strum (2021)
 
 ### Master Students (Applied Data Science, Utrecht University)
+- Sara Marti Marcet (2023)
+- Maike Weiper (2023)
+- Malka Aktepe (2023)
 - Jelle Teijema (2021)
 - Pablo Vizan (2021)
 - Govert Verberg (2021)
