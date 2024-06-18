@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ayoub Bagheri" #"Ayoub Bagheri / Assistant Professor"
+title                    : "Ayoub Bagheri" #"Ayoub Bagheri / Associate Professor"
 title_separator          : "-"
 name                     : &name "Ayoub Bagheri"
-description              : &description "Assistant Professor in Applied Data Science"
+description              : &description "Associate Professor in Applied Data Science"
 url                      : https://bagheria.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 #repository               : "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ayoub Bagheri"
   avatar           : "profile.jpg"
-  bio              : "Assistant Professor <br/> Methodology and Statistics <br/> Utrecht University"
+  bio              : "Associate Professor <br/> Methodology and Statistics <br/> Utrecht University"
   #location         : "The Nethe"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
