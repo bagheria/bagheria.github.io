@@ -8,10 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Ayoub Bagheri leads the Natural Language and Text Processing ([NLTP](https://nlp.sites.uu.nl/)) group in the Department of Methodology and Statistics at Utrecht University and has strong links with the Human Data Science lab ([HDS](https://hds.sites.uu.nl/)). His main interests include fundamental research in text mining and natural language processing, with particular emphasis on areas such as bias detection, explainable AI, large language models, and practical applications of language models in computational social sciences and health research.
+Ayoub Bagheri is a Board member and Chair of the Interdisciplinary Research Committee at Utrecht Young Academy. He has been a Board Member of the Centre for Unusual Collaborations (CUCo), an initiative of the Young Academies within the EWUU alliance, aims to support early and mid-career researchers to engage in unconventional interdisciplinary collaborations. Since 2021, he has been Coordinator of the Special Interest Group in Text Mining within the Focus Area Applied Data Science at Utrecht University. In 2024, together with the five NLP groups at UU, the Utrecht NLP Hub (NLP\@U) was formed, a collaborative initiative supported by the Focus Areas Applied Data Science and Human-centered AI. He is currently a co-Coordinator of the Utrecht NLP Hub, driving interdisciplinary collaboration and innovation in NLP.
+
+In the Department of Methodology and Statistics, he is Chair of the Data Science and AI Taskforce. He leads the *Natural Language and Text Processing* ([NLTP](https://nlp.sites.uu.nl/)) group in the Department of Methodology and Statistics at Utrecht University and is part of the Human Data Science lab ([HDS](https://hds.sites.uu.nl/)), and a Supervisory Board member of the [ASReview](https://asreview.nl/) team. His current research interests include Explainable AI for NLP, and Evaluating Quality and Applications of Large Language Models in societal challenges.
 
 For a more detailed view of his research, you may want to take a look at my [Utrecht University webpage](https://www.uu.nl/staff/ABagheri) and / or [Google Scholar page](https://scholar.google.nl/citations?user=QWhiQdgAAAAJ&hl=en).
-
-* As part of the [NLTP](https://nlp.sites.uu.nl/) group, he works on projects in NLP method development, text mining, explainable AI, and personality detection.
-* As part of the [HDS](https://hds.sites.uu.nl/) lab, he works on projects in the domain of applied data science for health and social sciences.
-* As part of the [ASReview](https://asreview.nl/) team, he works on projects related to AI-assisted systematic reviewing by using deep learning, active learning, and text mining approaches.
