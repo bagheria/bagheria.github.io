@@ -15,8 +15,8 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "CV"
-    url: http://bagheria.github.io/files/Ayoub_Bagheri_CV.pdf
+  #- title: "CV"
+  #  url: http://bagheria.github.io/files/Ayoub_Bagheri_CV.pdf
     
   #- title: "Guide"
    # url: /markdown/
