@@ -5,7 +5,7 @@ permalink: /courses/
 author_profile: true
 ---
 
-Ayoub develops, coordinates, and instructs a range of courses, delving into the areas of Data Science, Data Analysis and Visualization, Text Mining, and Natural Language Processing. He is also the coordinator of the Applied Data Science master profile at Utrecht University since 2021. 
+Ayoub develops, coordinates, and instructs a range of courses, delving into the areas of Data Science, Data Analysis and Visualization, Text Mining, and Natural Language Processing. He is also the coordinator of the Applied Data Science master profile at Utrecht University. 
 
 All his teachings is open employing both Python and R programming in data science. Beyond his regular curriculum, he extends his expertise through coordinating and leading summer courses as well as dynamic one-day workshops and teaching for professionals (OvP).
 
