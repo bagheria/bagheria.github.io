@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ayoub Bagheri" #"Ayoub Bagheri / Associate Professor"
+title                    : "About" #"Ayoub Bagheri / Associate Professor"
 title_separator          : "-"
 name                     : &name "Ayoub Bagheri"
 description              : &description "Associate Professor in Applied Data Science"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ayoub Bagheri"
   avatar           : "profile.jpg"
-  bio              : "Associate Professor <br/> Methodology and Statistics <br/> Utrecht University"
+  bio              : "Associate Professor <br/> Natural Language Processing <br/> Utrecht University"
   #location         : "The Nethe"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
