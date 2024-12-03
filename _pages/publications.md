@@ -7,6 +7,9 @@ author_profile: true
 Here is a short list of my publications, for a more comprehensive list please visit my [Google Scholar page](https://scholar.google.nl/citations?user=QWhiQdgAAAAJ&hl=en).
 
 ### 2024
+- Hortensius, R., D’Angelo, G., **Bagheri, A.**, Nguyen, D., Dekker, R., Costiner, L. S., & Jongsma, K. (2024). AI Helpdesk–a platform for reliable answers to questions from the general public about AI, BNAIC/BeNeLearn 2024.
+- van de Pas, N., **Bagheri, A.**, & Sier, W. (2024). Contextualizing Personality: Insights from Anthropology to Advance Personality Detection, BNAIC/BeNeLearn 2024.
+- Fang, Q., Giachanou, A., **Bagheri, A.** (2024). Improving Stance Detection by Leveraging Measurement Knowledge from Social Sciences: A Case Study of Dutch Political Tweets and Traditional Gender Role Division, BNAIC/BeNeLearn 2024.
 - Qi, Q., **Bagheri, A.**, Hessen, D. J., & van der Heijden, P. G. (2024). A comparison of correspondence analysis with PMI-based word embedding methods. arXiv preprint arXiv:2405.20895.
 - Mohammadi, H., Giachanou, A., & **Bagheri, A.** (2024). A Transparent Pipeline for Identifying Sexism in Social Media: Combining Explainability with Model Prediction. Applied Sciences, 14(19), 8620.
 - Teijema, J. J., Ribeiro, G., Seuren, S., Anadria, D., **Bagheri, A.**, & van de Schoot, R. (2024). Simulation-based Active Learning for Systematic Reviews: A Scoping Review of Literature, OSF.
