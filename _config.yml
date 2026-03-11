@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ayoub Bagheri"
+  name             : "Robert A. Bagheri"
   avatar           : "profile.jpg"
   bio              : "Associate Professor <br/> Natural Language Processing <br/> Utrecht University"
   #location         : "The Nethe"
@@ -109,7 +109,7 @@ author:
   #stackoverflow   : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  x                : "BagheriAyoub"
+  x                :
   vine             :
   weibo            :
   xing             :
