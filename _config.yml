@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About" #"Ayoub Bagheri / Associate Professor"
+title                    : "About" #"Robert A. Bagheri / Associate Professor"
 title_separator          : "-"
-name                     : &name "Ayoub Bagheri"
+name                     : &name "Robert Bagheri"
 description              : &description "Associate Professor in Applied Data Science"
 url                      : https://bagheria.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
