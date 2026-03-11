@@ -6,6 +6,16 @@ author_profile: true
 ---
 Here is a short list of my publications, for a more comprehensive list please visit my [Google Scholar page](https://scholar.google.nl/citations?user=QWhiQdgAAAAJ&hl=en).
 
+### 2026
+- van de Pas, N., **Bagheri, A.**, & Sier, W. (2026). Personality in Perspective: Insights from Anthropology and Social Psychology to Advance Personality Detection. *Personality Science*. Sage.
+
+### 2025
+- Kuiper, R., van Smeden, M., de Groot, L., **Bagheri, A.** (2025). LAD: LoRA-Adapted Denoiser. In *Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)*. ACL.
+- Mohammadi, H., Papadopoulou, E., Meijer, Y. F., **Bagheri, A.** (2025). Exploring Cultural Variations in Moral Judgments with Large Language Models. *arXiv preprint arXiv:2506.12433*.
+- Teijema, J. J., de Bruin, J., **Bagheri, A.**, & van de Schoot, R. (2025). Large-scale simulation study of active learning models for systematic reviews. *International Journal of Data Science and Analytics*, 1–22.
+- Mohammadi, H., **Bagheri, A.**, Giachanou, A., & Oberski, D. L. (2025). Explainability in Practice: A Survey of Explainable NLP Across Various Domains. *arXiv preprint arXiv:2502.00837*.
+- Mohammadi, H., Giachanou, A., Oberski, D. L., & **Bagheri, A.** (2025). Explainability-Based Token Replacement on LLM-Generated Text. *arXiv preprint arXiv:2506.04050*.
+
 ### 2024
 - Hortensius, R., D’Angelo, G., **Bagheri, A.**, Nguyen, D., Dekker, R., Costiner, L. S., & Jongsma, K. (2024). AI Helpdesk–a platform for reliable answers to questions from the general public about AI, BNAIC/BeNeLearn 2024.
 - van de Pas, N., **Bagheri, A.**, & Sier, W. (2024). Contextualizing Personality: Insights from Anthropology to Advance Personality Detection, BNAIC/BeNeLearn 2024.
