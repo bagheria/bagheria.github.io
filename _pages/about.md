@@ -34,5 +34,7 @@ For a more detailed view of my research, you may want to take a look at my
 
 - **October 2026** — Our paper, [BYOD: Build Your Own DLM – Efficient Autoregressive-to-Diffusion Language Model Conversion](https://arxiv.org/abs/2610.41574), with Ruurd Kuiper, is now available on arXiv.
 - **October 2026** — I have been appointed [Director of the Applied Data Science Research Community](https://www.uu.nl/en/news/new-director-of-the-applied-data-science-research-community) at Utrecht University.
+- **September 2026** — Congratulations to my PhD, [Dr. Hadi Mohammadi](https://mohammadi.cv) on successfully defending his thesis on Explainable Natural Language Processing for Social Sciences! It was a pleasure to be part of your supervision team.
 - **September 2026** — [Maria Mouratidi](https://www.uu.nl/staff/MMouratidi/Research) started her PhD research on AI and causal modeling to improve reading education, under my co-supervision.
 - **September 2026** — [Artur Aleixo](https://research.tilburguniversity.edu/en/persons/artur-aleixo/) started his PhD research at Tilburg University on multimodal learning for mental health, resilience, and wellbeing, under my co-supervision.
+- **June 2026** — Congratulations to my PhD, [Dr. Jelle Teijema](https://teije.ma) on successfully defending his thesis on Reproducible and Explainable Active Learning for Systematic Reviews! It was a pleasure to be part of your supervision team.
