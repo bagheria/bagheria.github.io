@@ -5,19 +5,16 @@ permalink: /courses/
 author_profile: true
 ---
 
-Robert develops, coordinates, and instructs a range of courses, delving into the areas of Data Science, Data Analysis and Visualization, Text Mining, and Natural Language Processing. He is also the coordinator of the Applied Data Science master profile at Utrecht University. 
+I develop, coordinate, and teach a range of courses, delving into the areas of Machine Learning, Data Science, 
+and Natural Language Processing. I am also coordinator of the AI/Applied Data Science education at MSDS at Utrecht University. 
 
-All his teachings is open employing both Python and R programming in data science. Beyond his regular curriculum, he extends his expertise through coordinating and leading summer courses as well as dynamic one-day workshops and teaching for professionals (OvP).
+Here is a list of my recent teaching:
 
-Here is a curated list of some of the courses he offers:
-
-* [Data Wrangling and Data Analysis](https://infomdwr.nl/)
-* [Battling the Curse of Dimensionality](https://infomda2.nl/)
-<!--[Applied Data Science and Visualization](https://adav-course-2023.netlify.app/)-->
-* [Text Mining with R](https://utrechtsummerschool.nl/courses/social-sciences/data-science-introduction-to-text-mining-with-r) 
-* [Applied Text Mining](https://utrechtsummerschool.nl/courses/social-sciences/data-science-applied-text-mining)
-* [Text Analysis with Python](https://utrechtsummerschool.nl/courses/social-sciences/text-analysis-with-python-online-course)
-* [Transformers and Foundation Models](https://ayoubbagheri.nl/transformers/)
+* [Machine Learning](https://daml.robertab.nl), master level
+* Data Wrangling and Data Analysis, master level
+* Battling the Curse of Dimensionality, master level
+* Applied Text Mining & NLP, summerschool
+* Transformers and Foundation Models, teaching for professionals
 
 {% include base_path %}
 
