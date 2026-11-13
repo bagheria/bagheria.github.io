@@ -32,7 +32,7 @@ For a more detailed view of my research, you may want to take a look at my
 
 ## News & Updates
 - **November 2026** — We had the [NLP@U meeting](https://www.uu.nl/en/events/nlpu-meeting) to discuss recent developments in the field, the use of GenAI in research, and emerging research ideas.
-- **October 2026** — Together with Ruurd Kuiper, we co-organized the [Alternative Architectures and Paradigms (AAP) Workshop](https://aap-inlg.github.io/), co-located with INLG 2026 in Utrecht, to explore next-generation architectures for NLG beyond traditional autoregressive Transformers. The workshop featured a keynote by AI researcher Chen Shani on *Concepts as a Design Axis for Large Language Models*.
+- **October 2026** — Together with Ruurd Kuiper, we co-organized the [Alternative Architectures and Paradigms (AAP) Workshop](https://aap-inlg.github.io/), co-located with INLG 2026 in Utrecht, to explore next-generation architectures for NLG beyond traditional autoregressive Transformers.
 - **October 2026** — Our paper, [BYOD: Build Your Own DLM – Efficient Autoregressive-to-Diffusion Language Model Conversion](https://arxiv.org/abs/2610.41574), with Ruurd Kuiper, is now available on arXiv.
 - **October 2026** — I have been appointed [Director of the Applied Data Science Research Community](https://www.uu.nl/en/news/new-director-of-the-applied-data-science-research-community) at Utrecht University.
 - **September 2026** — Congratulations to my PhD, [Dr. Hadi Mohammadi](https://mohammadi.cv) on successfully defending his thesis on Explainable Natural Language Processing for Social Sciences! It was a pleasure to be part of your supervision team.
