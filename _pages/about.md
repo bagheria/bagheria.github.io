@@ -24,10 +24,10 @@ Steering Committee of the EWUU AI Hub and am a Co-Director of the AI & Data Scie
 together with Mehdi Dastani and Jan Broersen. I also serve on the Advisory Board of the Utrecht AI Labs.
 
 Within Utrecht University, I chair the Data Science and AI Taskforce in the Department of Methodology, Statistics and 
-Data Science and co-coordinate the Utrecht NLP Hub (NLP\@U).
+Data Science and co-coordinate the Utrecht NLP Hub (NLP@U).
 
 For a more detailed view of my research, you may want to take a look at my
-[Google Scholar page](https://scholar.google.nl/citations?user=QWhiQdgAAAAJ&hl=en).
+[Google Scholar](https://scholar.google.nl/citations?user=QWhiQdgAAAAJ&hl=en).
 
 
 ## News & Updates
