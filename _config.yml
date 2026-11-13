@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About" #"Robert A. Bagheri / Associate Professor"
+title                    : "About" #"Robert Bagheri / Associate Professor"
 title_separator          : "-"
 name                     : &name "Robert Bagheri"
-description              : &description "Associate Professor in Applied Data Science"
+description              : &description "Associate Professor in Machine Learning & NLP"
 url                      : https://robertab.nl # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 #repository               : "academicpages/academicpages.github.io"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Robert A. Bagheri"
+  name             : "Robert Bagheri"
   avatar           : "profile.jpg"
-  bio              : "Associate Professor <br/> Natural Language Processing <br/> Utrecht University"
-  #location         : "The Nethe"
+  bio              : "Associate Professor <br/> Machine Learning, Natural Language Processing <br/> Utrecht University"
+  #location         : "The Netherlands"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.nl/citations?user=QWhiQdgAAAAJ&hl=en"
