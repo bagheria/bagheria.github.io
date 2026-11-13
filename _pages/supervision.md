@@ -6,6 +6,14 @@ author_profile: true
 ---
 
 ### PhD Candidates
+**Maria Mouratidi (2026–2030)**
+  - Project: AI and Causal Modeling for Improving Reading Education
+  - Co-supervision: With Mehdi Dastani, Thijs van Ommen, and Ad Feelders, Utrecht University.
+
+**Artur Aleixo (2026–2030)**
+  - Project: Multimodal Learning for Mental Health, Resilience, and Wellbeing
+  - Co-supervision: With Peter de Looff, Elien De Caluwé, and Floortje Scheepers, Tilburg University.
+
 - **Amirhossein Mohammadi (2025-2029)**
   - Project: Understanding Impossible Language Models
   - Co-supervision: With Albert Gatt, and Laurence Frank, Utrecht University.
@@ -14,23 +22,23 @@ author_profile: true
   - Project: Transparent and Reproducible AI-aided Systematic Reviewing for the Social Sciences (TRASS).
   - Co-supervision: With Rens van de Schoot, Matthieu Brinkhuis, and Qixiang Fang, Utrecht University.
   
-- **Arjan van Dalfsen (2023-2026)**
+- **Arjan van Dalfsen (2023-2027)**
   - Project: Mining the Dutch disposition towards animals and plants.
   - Co-supervision: With Folgert Karsdorp and Els Stronks, Utrecht University.
 
-- **Hadi Mohammadi (2023-2026)**
-  - Project: Explainable natural language processing for social sciences.
-  - Co-supervision: With Anastasia Giachanou and Daniel Oberski, Utrecht University.
-
-- **Paul Keuren (2023-2026)**
+- **Paul Keuren (2023-2027)**
   - Project: Knowledge-based natural language processing for real-world applications.
   - Co-supervision: With Marc Ponsen (Statistics Netherlands, CBS) and Daniel Oberski, Utrecht University.
 
-- **Niek van de Pas (2022-2026)**
+- **Niek van de Pas (2023-2027)**
   - Project: Discovering Dutchness through text mining.
   - Co-supervision: With Willy Sier, Wil Pansters, and Daniel Oberski, Utrecht University.
 
 ### Completed PhD
+- **Hadi Mohammadi (2023-2026)**
+  - Project: Explainable natural language processing for social sciences.
+  - Co-supervision: With Anastasia Giachanou and Daniel Oberski, Utrecht University.
+
 - **Jelle Teijema (2022-2025)**
   - Project: FAIR metadata of current and next-generation systematic reviews.
   - Co-supervision: With Rens van de Schoot, Lars Tummers, and Matthieu Brinkhuis, Utrecht University.
