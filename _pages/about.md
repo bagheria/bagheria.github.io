@@ -8,8 +8,31 @@ redirect_from:
   - /about.html
 ---
 
-My name is Robert A. Bagheri, and I am an **Associate Professor of NLP, Machine Learning, and Interpretability** at Utrecht University. I serve as a Board member of the EWUU AI Hub Steering Committee. Additionally, I am a Board member and Chair of the Interdisciplinary Research Committee at [Utrecht Young Academy](https://www.uu.nl/onderzoek/utrecht-young-academy). I also contribute as a Board Member of the **Centre for Unusual Collaborations** [(CUCo)](https://unusualcollaborations.ewuu.nl), an initiative of the Young Academies within the EWUU alliance, aims to support early and mid-career researchers to engage in unconventional interdisciplinary collaborations. Since 2021, I have been Coordinator of the Special Interest Group in Text Mining within the Focus Area Applied Data Science at Utrecht University. In 2024, together with the five NLP groups at UU, the **Utrecht NLP Hub** (NLP@U) was formed, a collaborative initiative supported by the Focus Areas Applied Data Science and Human-centered AI. I am currently a Co-coordinator of the **Utrecht NLP Hub**, driving interdisciplinary collaboration and innovation in NLP.
+Hi, I'm Robert! I'm an Associate Professor of Natural Language Processing, Machine Learning, 
+and Interpretability at Utrecht University, where I lead the [NLTP team](https://nlp.sites.uu.nl/) in the Department of 
+Methodology, Statistics and Data Science.
 
-In the Department of Methodology, Statistics, and Data Science I am Chair of the Data Science and AI Taskforce. My group is the **Natural Language and Text Processing** ([NLTP](https://nlp.sites.uu.nl/)) lab in the department and is part of the **Human Data Science lab** ([HDS](https://hds.sites.uu.nl/)), and a Supervisory Board member of the [ASReview](https://asreview.nl/) team. My current research interests include Explainable AI for NLP, and Evaluating Quality and Applications of Language Models and LLMs in societal challenges.
+My research focuses on machine learning, deep learning, and mechanistic interpretability, aiming to uncover the internal 
+mechanisms of neural networks and understand how they transform learned representations into predictions and decisions.
 
-For a more detailed view of my research, you may want to take a look at my [Utrecht University webpage](https://www.uu.nl/staff/ABagheri) and / or [Google Scholar page](https://scholar.google.nl/citations?user=QWhiQdgAAAAJ&hl=en).
+I investigate these questions across a range of models, from controlled neural networks to large language models, with a 
+particular emphasis on identifying which internal features play a causal role in shaping model behavior, rather than merely 
+correlating with it.
+
+Beyond my research, I am actively involved in academic leadership and interdisciplinary collaboration. I serve on the 
+Steering Committee of the EWUU AI Hub and am a Co-Director of the AI & Data Science Research Center at Utrecht University, 
+together with Mehdi Dastani and Jan Broersen. I also serve on the Advisory Board of the Utrecht AI Labs.
+
+Within Utrecht University, I chair the Data Science and AI Taskforce in the Department of Methodology, Statistics and 
+Data Science and co-coordinate the Utrecht NLP Hub (NLP\@U).
+
+For a more detailed view of my research, you may want to take a look at my
+[Google Scholar page](https://scholar.google.nl/citations?user=QWhiQdgAAAAJ&hl=en).
+
+
+## News & Updates
+
+- **October 2026** — Our paper, [BYOD: Build Your Own DLM – Efficient Autoregressive-to-Diffusion Language Model Conversion](https://arxiv.org/abs/2610.41574), with Ruurd Kuiper, is now available on arXiv.
+- **October 2026** — I have been appointed [Director of the Applied Data Science Research Community](https://www.uu.nl/en/news/new-director-of-the-applied-data-science-research-community) at Utrecht University.
+- **September 2026** — [Maria Mouratidi](https://www.uu.nl/staff/MMouratidi/Research) started her PhD research on AI and causal modeling to improve reading education, under my co-supervision.
+- **September 2026** — [Artur Aleixo](https://research.tilburguniversity.edu/en/persons/artur-aleixo/) started his PhD research at Tilburg University on multimodal learning for mental health, resilience, and wellbeing, under my co-supervision.
