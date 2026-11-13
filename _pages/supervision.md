@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 ### PhD Candidates
-**Maria Mouratidi (2026–2030)**
+- **Maria Mouratidi (2026–2030)**
   - Project: AI and Causal Modeling for Improving Reading Education
   - Co-supervision: With Mehdi Dastani, Thijs van Ommen, and Ad Feelders, Utrecht University.
 
-**Artur Aleixo (2026–2030)**
+- **Artur Aleixo (2026–2030)**
   - Project: Multimodal Learning for Mental Health, Resilience, and Wellbeing
   - Co-supervision: With Peter de Looff, Elien De Caluwé, and Floortje Scheepers, Tilburg University.
 
